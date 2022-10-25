@@ -84,3 +84,6 @@ btnStart.addEventListener('click', () => {
     }, 1000 * 60);
 });
 
+// git config--global user.email "alkdaimahmd@gmail.com"
+//   git config--global user.name "ahmadalkdeem"
+
